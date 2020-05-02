@@ -1,0 +1,177 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+nav{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    display: flex;
+}
+
+ul li{
+    margin-right: 30px;
+    list-style: none;
+    margin-top: 20px;
+    display: flex;
+}
+ul.head-1{
+    
+     display: flex;
+    justify-content: space-around;
+    background-color: rgb(17, 80, 218);
+    color: white;
+  
+
+}
+
+.main{    
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(17, 80, 218);
+    color: white;
+}
+
+.top-butt{
+    margin-top: 30px;
+}
+.head{
+    margin-right: 120px;
+}
+
+.second-nav{
+    display: flex;
+    justify-content: center;
+    background-color: #043867;
+    color: #fff;
+    margin-top: 0;
+    padding: 10px;
+}
+
+.second-nav li{
+    margin-top: 10px;
+}
+
+
+#one{
+    background-color: rgb(48, 133, 48);
+    font-size: 25px;
+    color: white;
+    padding: 8px;
+    margin-left: 30px;
+    
+}
+.two{
+    background-color: rgb(219, 219, 219);
+    font-family: sans-serif;
+    color: rgb(90, 90, 90);
+    font-size: 25px;
+    padding: 8px;
+    width: 25em;
+    margin-top: 30px;
+    margin-left: 30px;
+    display: inline-block;
+    justify-content: space-around;
+}
+.head-color{
+    color: rgb(70, 144, 255);
+}
+
+.three{
+    background-color: purple;
+    color: white;
+    font-family: sans-serif;
+    
+    font-size: 18px;
+    width: 25em; 
+    padding: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.four{
+        background-color: rgb(100, 82, 255);
+        color: white;
+        font-family: sans-serif;
+        padding: 8px;
+        width: 25em;
+        padding: 30px;
+        margin-left: 30px;
+        display: inline-block;
+        justify-content: space-around;
+        margin-top: 30px;
+}
+
+button{
+    background-color: rgb(133, 133, 255) ;
+    color: white;
+    border-color: rgb(189, 194, 255);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 0px;
+    font-size: 14px;
+}
+.upcoming{
+    color: grey;
+    margin-left: 40px;
+}
+.date{
+    border: 2px solid grey;
+    width: 65px;
+    height: 100px;
+    color: rgb(69, 241, 69);
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+    margin-left: 45px;
+}
+.student{
+    color: #4e4eff;
+    margin-left: 40px;
+}
+.butt{
+    background-color: white ;
+    color:rgb(32, 121, 255);
+    border-color: rgb(189, 194, 255);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 0px;
+    font-size: 14px;
+    padding: 5px;
+   
+}
+.butt1{
+    margin-left: 30px;
+    background-color: white ;
+    color:rgb(32, 121, 255);
+    border-color: rgb(189, 194, 255);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 0px;
+    font-size: 14px;
+    padding: 5px;
+}
+.footer{
+    background-color: rgb(97, 97, 97);
+    display: flex;
+}
+.f-head{
+    color: white;
+    margin-left: 30px;
+}
+.f-list{
+    list-style: none;
+    color: rgb(185, 185, 185);
+    margin-top: 0px;
+    display: inline-block;
+}
+.headd{
+    margin-left: 60px;
+    font-size: large;
+}
+.last-f{
+    background-color: rgb(97, 97, 97);
+    
+}
